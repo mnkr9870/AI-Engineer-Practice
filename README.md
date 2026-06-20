@@ -1,4 +1,4 @@
 ## AI Engineering Practice
 
 **1. Introduction**
-**Prompt Engineering with OpenAI API**
+**2. Prompt Engineering with OpenAI API**
