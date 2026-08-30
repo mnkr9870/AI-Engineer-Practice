@@ -20,7 +20,7 @@ chat_history = [
         "content": "You are an helpful assistant who provides details and one-liner about the places requested.",
     }
 ]
-print("Sample print")
+print("Sample prin - Durga")
 while True:
     prompt = input("You:")
     if prompt.lower() == "quit":
